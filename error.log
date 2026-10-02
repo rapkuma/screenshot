@@ -1,0 +1,18 @@
+2026-04-04 16:09:30,113 [ERROR] CRASH: Traceback (most recent call last):
+  File "E:\00000000_AI\ScreenShot\screenshot.py", line 666, in <module>
+    ex = ConvertPdfApp()
+  File "E:\00000000_AI\ScreenShot\screenshot.py", line 124, in __init__
+    self.initUI()
+  File "E:\00000000_AI\ScreenShot\screenshot.py", line 271, in initUI
+    layout.addWidget(self.log_textbox)
+AttributeError: 'ConvertPdfApp' object has no attribute 'log_textbox'
+
+2026-04-04 16:09:53,487 [ERROR] CRASH: Traceback (most recent call last):
+  File "E:\00000000_AI\ScreenShot\screenshot.py", line 666, in <module>
+    ex = ConvertPdfApp()
+  File "E:\00000000_AI\ScreenShot\screenshot.py", line 124, in __init__
+    self.initUI()
+  File "E:\00000000_AI\ScreenShot\screenshot.py", line 271, in initUI
+    layout.addWidget(self.log_textbox)
+AttributeError: 'ConvertPdfApp' object has no attribute 'log_textbox'
+
